@@ -1,0 +1,14 @@
+{
+  "name": "d3",
+  "version": "1.0.0",
+  "description": "Learning d3",
+  "main": "index.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "keywords": [
+    "d3"
+  ],
+  "author": "R Santosh Reddy",
+  "license": "ISC"
+}
